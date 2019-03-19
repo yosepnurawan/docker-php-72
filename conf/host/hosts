@@ -1,5 +1,4 @@
 127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
-127.0.0.1   brimob.local
-127.0.0.1   simwas.local
-127.0.0.1   adminlte.local
+127.0.0.1   aplikasi1.local
+127.0.0.1   aplikasi2.local
